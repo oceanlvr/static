@@ -6552,9 +6552,10 @@ table.bs td {
   display: none;
   position: absolute;
   background-color: var(--box-background-color);
-  top: 36px;
+  top: 38px;
   left: 0;
   width: 100%;
+  font-family: helvetica neue, luxi sans, dejavu sans, Tahoma, hiragino sans gb, STHeiti !important
 }
 
 #search-result .search-item.active {
