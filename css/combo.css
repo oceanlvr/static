@@ -691,7 +691,9 @@ ol {
   background-size: 276px 28px;
   background-image: url(../img/qbar_light@2x.png);
   background-repeat: no-repeat;
-  display: inline-block
+  display: inline-block;
+  position: relative;
+
 }
 
 #q {
@@ -6548,12 +6550,11 @@ table.bs td {
 
 #search-result {
   display: none;
-  float:left;
+  position: absolute;
   background-color: var(--box-background-color);
   top: 36px;
   left: 0;
   width: 100%;
-  z-index: 10;
 }
 
 #search-result .search-item.active {
