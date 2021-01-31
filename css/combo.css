@@ -371,15 +371,6 @@ ol {
   padding: 0
 }
 
-#Logo {
-  width: 94px;
-  height: 30px;
-  background-image: url(../img/logo@2x.png);
-  background-size: 94px 30px;
-  background-repeat: no-repeat;
-  display: inline-block
-}
-
 #Top {
   text-align: center;
   background-color: var(--box-background-color);
@@ -480,15 +471,6 @@ ol {
   background-color: var(--box-background-alt-color)
 }
 
-#LogoMobile {
-  width: 80px;
-  height: 25px;
-  background-image: url(../img/logo@2x.png);
-  background-size: 80px 25px;
-  background-repeat: no-repeat;
-  display: inline-block
-}
-
 .menu {
   margin: 0;
   display: flex;
@@ -574,14 +556,6 @@ ol {
   text-align: center;
   color: #999;
   padding: 0 10px
-}
-
-#DigitalOcean {
-  background-image: url(../img/do_logo.png);
-  width: 163.92px;
-  height: 28px;
-  background-size: 163.92px 28px;
-  background-repeat: no-repeat
 }
 
 #nodes-sidebar {
